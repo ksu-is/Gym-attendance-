@@ -1,5 +1,5 @@
-- [x] Create title for website DONE
-- [ ] Create description of the website 
+- [x] Create title for app DONE
+- [ ] Create description of the wapp
 - [x] Create Read.me DONE
 - [ ] Upload code from an existing gym tracker
 - [ ] Clone files to Github Desktop and upload them to Visual Studio 
