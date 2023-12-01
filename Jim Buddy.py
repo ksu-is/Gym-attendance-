@@ -24,5 +24,5 @@ class GymAttendanceTracker:
             print(entry)
 
 def main():
-    gym_name = "FitHub"
+    gym_name = "Jim Buddy"
     tracker = GymAttendanceTracker(gym_name)
