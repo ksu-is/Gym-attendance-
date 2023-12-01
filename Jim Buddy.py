@@ -7,7 +7,7 @@ class GymAttendanceTracker:
         self.attendance_file = f"{gym_name}_attendance.txt"
         self.attendance = set()
 
-    def record_attendance(self, member_id): 
+    def record_attendance(self, member_id):
         now = datetime.now()
         timestamp = now.strftime("%Y-%m-%d %H:%M:%S")
         attendance_entry = f"{timestamp} - Member ID: {member_id}"
